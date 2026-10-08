@@ -24,5 +24,6 @@ Tags:
 - desktop-avatar
 ReleaseNotes: Initial public release of KuroLive v0.32 RC with Live2D model loading, webcam face tracking, transparent desktop avatar mode, expressions, physics, global hotkeys, and camera tracking preview.
 ReleaseNotesUrl: https://github.com/aicodehub-vn/Ai-Code-Hub/releases/tag/KuroLive-v0.32-rc
-InstallationNotes: Launch KuroLive, load a Live2D .model3.json model, select your camera, then press GO LIVE.ManifestType: defaultLocale
+InstallationNotes: Launch KuroLive, load a Live2D .model3.json model, select your camera, then press GO LIVE.
+ManifestType: defaultLocale
 ManifestVersion: 1.12.0
